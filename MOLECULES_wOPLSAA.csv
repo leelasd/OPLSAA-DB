@@ -1,0 +1,465 @@
+CID,IUPACName,MOL_ID
+11,"1,2-dichloroethane",M_11
+126,4-hydroxybenzaldehyde,M_126
+174,"ethane-1,2-diol",M_174
+176,acetic acid,M_176
+177,acetaldehyde,M_177
+178,acetamide,M_178
+180,propan-2-one,M_180
+190,7H-purin-6-amine,M_190
+196,hexanedioic acid,M_196
+206,"6-(hydroxymethyl)oxane-2,3,4,5-tetrol",M_206
+240,benzaldehyde,M_240
+241,benzene,M_241
+243,benzoic acid,M_243
+244,phenylmethanol,M_244
+261,butanal,M_261
+263,butan-1-ol,M_263
+264,butanoic acid,M_264
+284,formic acid,M_284
+297,methane,M_297
+300,2-chloroacetic acid,M_300
+304,"10,13-dimethyl-17-(6-methylheptan-2-yl)-2,3,4,7,8,9,11,12,14,15,16,17-dodecahydro-1H-cyclopenta[a]phenanthren-3-ol",M_304
+338,2-hydroxybenzoic acid,M_338
+356,octane,M_356
+527,propanal,M_527
+597,6-amino-1H-pyrimidin-2-one,M_597
+674,N-methylmethanamine,M_674
+679,methylsulfinylmethane,M_679
+700,2-aminoethanol,M_700
+702,ethanol,M_702
+713,formamide,M_713
+750,2-aminoacetic acid,M_750
+760,oxaldehydic acid,M_760
+764,"2-amino-3,7-dihydropurin-6-one",M_764
+785,"benzene-1,4-diol",M_785
+795,1H-imidazole,M_795
+798,1H-indole,M_798
+840,"6-methyloxane-2,3,4,5-tetrol",M_840
+867,propanedioic acid,M_867
+878,methanethiol,M_878
+887,methanol,M_887
+904,N-phenylacetamide,M_904
+931,naphthalene,M_931
+949,"N,N-dimethylaniline",M_949
+957,octan-1-ol,M_957
+971,oxalic acid,M_971
+980,4-nitrophenol,M_980
+995,phenanthrene,M_995
+996,phenol,M_996
+1031,propan-1-ol,M_1031
+1032,propanoic acid,M_1032
+1044,7H-purine,M_1044
+1048,1H-pyrazole,M_1048
+1049,pyridine,M_1049
+1068,methylsulfanylmethane,M_1068
+1105,"2,6,10,15,19,23-hexamethyltetracosa-2,6,10,14,18,22-hexaene",M_1105
+1110,butanedioic acid,M_1110
+1135,"5-methyl-1H-pyrimidine-2,4-dione",M_1135
+1140,toluene,M_1140
+1146,"N,N-dimethylmethanamine",M_1146
+1174,"1H-pyrimidine-2,4-dione",M_1174
+1176,urea,M_1176
+1302,2-(6-methoxynaphthalen-2-yl)propanoic acid,M_1302
+1318,"1,10-phenanthroline",M_1318
+1390,1-methylimidazole,M_1390
+1567,2-sulfanylethanol,M_1567
+1983,N-(4-hydroxyphenyl)acetamide,M_1983
+1990,N-hydroxyacetamide,M_1990
+2108,"2-(hydroxymethyl)-6-methoxyoxane-3,4,5-triol",M_2108
+2331,benzamide,M_2331
+2879,4-methylphenol,M_2879
+3283,ethoxyethane,M_3283
+3301,"ethane-1,2-diamine",M_3301
+3672,2-[4-(2-methylpropyl)phenyl]propanoic acid,M_3672
+3776,propan-2-ol,M_3776
+4684,4-chlorophenol,M_4684
+4754,N-(4-ethoxyphenyl)acetamide,M_4754
+4837,piperazine,M_4837
+5054,"benzene-1,3-diol",M_5054
+5237,2-fluoroacetic acid,M_5237
+5240,2-iodoacetic acid,M_5240
+5899,"5-(trifluoromethyl)-1H-pyrimidine-2,4-dione",M_5899
+6054,2-phenylethanol,M_6054
+6115,aniline,M_6115
+6184,hexanal,M_6184
+6213,methylsulfonylmethane,M_6213
+6227,2-bromoacetic acid,M_6227
+6228,"N,N-dimethylformamide",M_6228
+6276,pentan-1-ol,M_6276
+6318,4-chlorobenzoic acid,M_6318
+6324,ethane,M_6324
+6325,ethene,M_6325
+6329,methanamine,M_6329
+6334,propane,M_6334
+6337,chloroethane,M_6337
+6340,iodoethane,M_6340
+6341,ethanamine,M_6341
+6343,ethanethiol,M_6343
+6351,cyclopropane,M_6351
+6360,2-methylpropane,M_6360
+6375,nitromethane,M_6375
+6386,2-methylpropan-2-ol,M_6386
+6396,tetramethylsilane,M_6396
+6403,"2,2-dimethylbutane",M_6403
+6409,"2,2,2-trifluoroethanol",M_6409
+6422,"2,2,2-trifluoroacetic acid",M_6422
+6431,"1,1,1,2,2,2-hexafluoroethane",M_6431
+6556,2-methylbutane,M_6556
+6557,"2-methylbuta-1,3-diene",M_6557
+6569,butan-2-one,M_6569
+6570,but-3-en-2-one,M_6570
+6575,"1,1,2-trichloroethene",M_6575
+6579,prop-2-enamide,M_6579
+6581,prop-2-enoic acid,M_6581
+6582,N-methylacetamide,M_6582
+6584,methyl acetate,M_6584
+6587,1-nitroethane,M_6587
+6589,"2,3-dimethylbutane",M_6589
+6736,3-methyl-1H-indole,M_6736
+6908,"1,2,3,4,5,6-hexamethylbenzene",M_6908
+6914,"2,4,6-trichlorophenol",M_6914
+6923,2-tert-butylphenol,M_6923
+7002,1-methylnaphthalene,M_7002
+7005,naphthalen-1-ol,M_7005
+7043,"1,2-dimethoxybenzene",M_7043
+7044,"1,2,3,4,4a,5,6,7,8,8a-decahydronaphthalene",M_7044
+7047,quinoline,M_7047
+7057,naphthalen-2-amine,M_7057
+7061,"N,N-diethylaniline",M_7061
+7095,"1,1'-biphenyl",M_7095
+7096,1-phenylpiperazine,M_7096
+7150,methyl benzoate,M_7150
+7165,ethyl benzoate,M_7165
+7168,N-phenylbenzamide,M_7168
+7189,"1,3-diphenylprop-2-en-1-one",M_7189
+7237,"1,2-xylene",M_7237
+7245,2-chlorophenol,M_7245
+7247,"1,2,4-trimethylbenzene",M_7247
+7249,"3,4-dimethylphenol",M_7249
+7282,3-methylpentane,M_7282
+7296,methylcyclopentane,M_7296
+7302,oxolan-2-one,M_7302
+7366,tert-butylbenzene,M_7366
+7368,trifluoromethylbenzene,M_7368
+7370,benzenesulfonamide,M_7370
+7406,cumene,M_7406
+7410,1-phenylethanone,M_7410
+7416,nitrobenzene,M_7416
+7423,3-nitroaniline,M_7423
+7498,bromomethylbenzene,M_7498
+7500,ethylbenzene,M_7500
+7503,chloromethylbenzene,M_7503
+7504,phenylmethanamine,M_7504
+7505,benzonitrile,M_7505
+7515,N-methylaniline,M_7515
+7519,anisole,M_7519
+7580,benzylbenzene,M_7580
+7583,phenoxybenzene,M_7583
+7612,"cyclopenta-1,3-diene",M_7612
+7647,2-phenylethylbenzene,M_7647
+7657,phenylmethoxymethylbenzene,M_7657
+7668,propylbenzene,M_7668
+7669,N-methyl-1-phenylmethanamine,M_7669
+7670,N-ethylaniline,M_7670
+7671,N-phenylformamide,M_7671
+7674,ethoxybenzene,M_7674
+7681,"N,N-dimethyl-1-phenylmethanamine",M_7681
+7735,[4-(hydroxymethyl)cyclohexyl]methanol,M_7735
+7808,4-bromophenol,M_7808
+7812,4-chloroaniline,M_7812
+7818,"1,4-dimethylpiperazine",M_7818
+7840,1-bromopropane,M_7840
+7843,butane,M_7843
+7844,but-1-ene,M_7844
+7845,"buta-1,3-diene",M_7845
+7846,but-1-yne,M_7846
+7847,prop-2-enal,M_7847
+7848,propane-1-thiol,M_7848
+7852,propan-1-amine,M_7852
+7854,propanenitrile,M_7854
+7858,prop-2-en-1-ol,M_7858
+7860,oxaldehyde,M_7860
+7861,methoxyethene,M_7861
+7865,methyl formate,M_7865
+7892,2-methylpentane,M_7892
+7899,3-chloropropanoic acid,M_7899
+7907,"2,4-dimethylpentane",M_7907
+7915,propan-2-yl acetate,M_7915
+7924,"4-methyl-1,3-dioxolan-2-one",M_7924
+7961,bromobenzene,M_7961
+7962,methylcyclohexane,M_7962
+7964,chlorobenzene,M_7964
+7966,cyclohexanol,M_7966
+7969,benzenethiol,M_7969
+7972,4-methylmorpholine,M_7972
+7991,pentanoic acid,M_7991
+8001,"1,3-dibromopropane",M_8001
+8003,pentane,M_8003
+8004,pent-1-ene,M_8004
+8020,dimethoxymethane,M_8020
+8021,N-ethylethanamine,M_8021
+8025,ethyl formate,M_8025
+8027,1H-pyrrole,M_8027
+8029,furan,M_8029
+8057,1-bromopentane,M_8057
+8058,hexane,M_8058
+8059,"1,4-dichlorobutane",M_8059
+8062,butanedinitrile,M_8062
+8071,"1,2-dimethoxyethane",M_8071
+8076,2-ethoxyethanol,M_8076
+8077,(ethyldisulfanyl)ethane,M_8077
+8078,cyclohexane,M_8078
+8079,cyclohexene,M_8079
+8082,piperidine,M_8082
+8083,morpholine,M_8083
+8103,hexan-1-ol,M_8103
+8129,heptan-1-ol,M_8129
+8141,nonane,M_8141
+8150,1-methoxy-2-(2-methoxyethoxy)ethane,M_8150
+8182,dodecane,M_8182
+8222,icosane,M_8222
+8252,prop-1-ene,M_8252
+8254,methoxymethane,M_8254
+8404,"1,2,3,4-tetrahydronaphthalene",M_8404
+8418,anthracene,M_8418
+8434,ethyl 4-hydroxybenzoate,M_8434
+8454,1-methylpyrrolidine,M_8454
+8471,"N,N-diethylethanamine",M_8471
+8680,butan-2-ylbenzene,M_8680
+8766,phenylsulfanylbenzene,M_8766
+8794,2-phenylacetonitrile,M_8794
+8857,ethyl acetate,M_8857
+8861,"pyridine-2,6-diamine",M_8861
+8882,cyclopentene,M_8882
+8900,heptane,M_8900
+9033,aziridine,M_9033
+9233,bicyclo[2.2.1]heptane,M_9233
+9235,bicyclo[2.2.2]octane,M_9235
+9237,"1,4-diazabicyclo[2.2.2]octane",M_9237
+9238,adamantane,M_9238
+9250,cyclobutane,M_9250
+9253,cyclopentane,M_9253
+9254,"1,2-oxazole",M_9254
+9255,"1,3-oxazole",M_9255
+9256,"1,3-thiazole",M_9256
+9259,pyridazine,M_9259
+9260,pyrimidine,M_9260
+9261,pyrazine,M_9261
+9262,"1,3,5-triazine",M_9262
+9266,cyclooctane,M_9266
+9309,prop-2-enylbenzene,M_9309
+9591,fluoromethylbenzene,M_9591
+9620,fluoroethane,M_9620
+9638,"1,1,1,2,2,3,3,4,4,4-decafluorobutane",M_9638
+9639,"1,1,1,2,2,3,3,4,4,5,5,6,6,6-tetradecafluorohexane",M_9639
+9732,4-fluorophenol,M_9732
+9741,"1,3-difluorobenzene",M_9741
+9805,"1,2,3,4,5,6-hexafluorobenzene",M_9805
+9998,1-fluoropropane,M_9998
+10008,fluorobenzene,M_10008
+10041,"2,2-dimethylpropane",M_10041
+10352,bicyclo[2.2.1]hept-2-ene,M_10352
+10390,2-phenylethynylbenzene,M_10390
+10422,azetidine,M_10422
+10784,2-iodophenol,M_10784
+10824,3-methoxyaniline,M_10824
+10869,methoxymethylbenzene,M_10869
+10871,N-(4-chlorophenyl)acetamide,M_10871
+10873,ethoxymethylbenzene,M_10873
+10899,1-chloropropane,M_10899
+10900,"1,2-dichloroethene",M_10900
+10903,methoxyethane,M_10903
+10907,"2,2,4-trimethylpentane",M_10907
+10908,tert-butyl acetate,M_10908
+10952,chlorocyclohexane,M_10952
+10977,1-chloropentane,M_10977
+10994,pentanedinitrile,M_10994
+11006,hexadecane,M_11006
+11008,dotriacontane,M_11008
+11124,methyl propanoate,M_11124
+11240,2-methylbut-1-ene,M_11240
+11334,"2,3-dichlorophenol",M_11334
+11364,N-methyl-N-phenylacetamide,M_11364
+11416,"1,2-dimethylcyclohexane",M_11416
+11439,"pyrrolidine-2,5-dione",M_11439
+11487,N-phenylaniline,M_11487
+11523,"1,4-dimethylcyclohexane",M_11523
+11575,iodobenzene,M_11575
+11635,octadecane,M_11635
+11657,methylcyclopropane,M_11657
+11679,"1,1,1,2,2,3,4,4,4-nonafluoro-3-(trifluoromethyl)butane",M_11679
+11723,"N,N-dimethylethanamine",M_11723
+11795,1-phenylnaphthalene,M_11795
+11855,"1,2,3,4,5-pentachlorobenzene",M_11855
+11916,"N,N-dimethylbenzamide",M_11916
+11934,2-phenylnaphthalene,M_11934
+11954,N-methylbenzamide,M_11954
+12014,3-methylpent-2-ene,M_12014
+12021,dimethyl carbonate,M_12021
+12141,2-phenylmethoxyethanol,M_12141
+12155,propoxybenzene,M_12155
+12180,methyl butanoate,M_12180
+12219,N-methylethanamine,M_12219
+12220,but-2-ene,M_12220
+12223,"1,2-difluoroethane",M_12223
+12230,methylsulfanylethane,M_12230
+12232,(methyldisulfanyl)methane,M_12232
+12248,pent-3-en-2-one,M_12248
+12291,1-methylpiperidine,M_12291
+12309,pent-1-yne,M_12309
+12319,N-ethylformamide,M_12319
+12403,henicosane,M_12403
+12405,docosane,M_12405
+12407,hexacosane,M_12407
+12408,octacosane,M_12408
+12410,hentriacontane,M_12410
+12411,tritriacontane,M_12411
+12426,tetraethylsilane,M_12426
+12535,triacontane,M_12535
+12585,pent-2-ene,M_12585
+12592,tetracosane,M_12592
+12675,"1,1,1,2,2,3,3,4,4,5,5,5-dodecafluoropentane",M_12675
+12720,but-1-en-3-yne,M_12720
+12956,"1-chloro-2,2-dimethylpropane",M_12956
+13019,4-hydroxybenzonitrile,M_13019
+13065,2-phenylpropan-2-ylbenzene,M_13065
+13202,"1,2-dichlorocyclohexane",M_13202
+13229,cyclohexylbenzene,M_13229
+13369,2-chloroethanamine,M_13369
+13387,1-methylpyrrolidin-2-one,M_13387
+13601,"cyclohexane-1,2-diol",M_13601
+13607,methoxycyclohexane,M_13607
+13651,4-phenylpyridine,M_13651
+13654,propan-2-yl benzoate,M_13654
+13886,3-phenylpyridine,M_13886
+13887,2-phenylpyridine,M_13887
+14516,methylsulfinylbenzene,M_14516
+15114,morpholin-4-yl(phenyl)methanone,M_15114
+15263,but-2-enylbenzene,M_15263
+15319,1-phenylcyclohexan-1-ol,M_15319
+15367,thiane,M_15367
+15542,"N,N-diethylbenzamide",M_15542
+16295,2-methylbutan-2-ylbenzene,M_16295
+16308,1-chloro-4-(4-chlorophenyl)benzene,M_16308
+16695,"hexa-1,3,5-triene",M_16695
+18369,methylsulfonylbenzene,M_18369
+19089,2-methoxyethylbenzene,M_19089
+20038,1-phenylpiperidine,M_20038
+22686,N-propylformamide,M_22686
+23057,2-methoxyoxane,M_23057
+26519,tetratriacontane,M_26519
+28557,"1,4,7,10,13,16-hexaoxacyclooctadecane",M_28557
+31229,phenyl acetate,M_31229
+31254,N-methylformamide,M_31254
+31261,"pentane-2,4-dione",M_31261
+31268,pyrrolidine,M_31268
+31275,"1,4-dioxane",M_31275
+31374,"N,N-dimethylacetamide",M_31374
+31386,benzenesulfonylbenzene,M_31386
+33643,1-iodopropane,M_33643
+53167,1-methylpiperazine,M_53167
+61134,butoxymethylbenzene,M_61134
+62324,propanoyl chloride,M_62324
+62339,4-phenylmorpholine,M_62339
+64151,adamantan-2-one,M_64151
+66185,dimethylsilane,M_66185
+67828,"1,1,2,2,3,3,4,4,5,5-decafluorocyclopentane",M_67828
+67849,"1,2,3,4,5-pentafluoro-6-methoxybenzene",M_67849
+67937,propanoyl fluoride,M_67937
+68010,trifluoromethoxybenzene,M_68010
+69018,propanoyl bromide,M_69018
+69257,"5-hydroxybenzene-1,3-dicarboxylic acid",M_69257
+69590,5-phenyl-1H-imidazole,M_69590
+69601,prop-1-ynylbenzene,M_69601
+69834,cyclohexanecarbonitrile,M_69834
+69886,tert-butyl benzoate,M_69886
+69892,phenyl(piperidin-1-yl)methanone,M_69892
+69972,cyclobutene,M_69972
+70112,cyclopropylbenzene,M_70112
+70303,propoxymethylbenzene,M_70303
+70352,phenoxymethylbenzene,M_70352
+70434,methylsilane,M_70434
+70970,N-phenylmethanesulfonamide,M_70970
+72805,"1,4,10,13-tetraoxa-7,16-diazacyclooctadecane",M_72805
+72879,methanesulfonamide,M_72879
+74202,"1,1-dimethylcyclopropane",M_74202
+74210,"Di-p-xylylene",M_74210
+74274,cyclopropylmethylbenzene,M_74274
+74296,N-phenylbenzenesulfonamide,M_74296
+74458,prop-2-enoxybenzene,M_74458
+74667,3-phenylprop-2-enenitrile,M_74667
+75966,propan-2-yloxybenzene,M_75966
+77726,1-phenylpyrrolidine,M_77726
+78988,fluorocyclohexane,M_78988
+79059,1-methylsulfonylethane,M_79059
+81179,(2-methylpropan-2-yl)oxybenzene,M_81179
+87170,1-ethoxy-2-methoxybenzene,M_87170
+88359,1-(methoxymethyl)imidazole,M_88359
+89638,"2-phenyl-2,3-dihydro-1H-indene",M_89638
+96375,2-methoxyethoxybenzene,M_96375
+97632,N-methylmethanesulfonamide,M_97632
+101194,"1,5-dimethylpyrrolidin-2-one",M_101194
+136511,bicyclo[2.2.1]hept-2-en-5-one,M_136511
+136538,cyclopentylbenzene,M_136538
+136879,cyclobutadiene,M_136879
+137075,2-ethyl-1H-pyrrole,M_137075
+137492,cyclohexyloxybenzene,M_137492
+137730,ethylsilane,M_137730
+138143,ethylsulfinylbenzene,M_138143
+138165,"3,3-dimethylbut-1-ynylbenzene",M_138165
+138219,cyclobutylbenzene,M_138219
+138400,"thiane 1,1-dioxide",M_138400
+140726,4-phenyloxane,M_140726
+141806,but-2-ynylbenzene,M_141806
+141892,2-acetamido-N-methylpropanamide,M_141892
+199509,tetraethylphosphanium,M_199509
+200991,1-methyl-4-phenylpiperazine,M_200991
+209257,"1,3-dimethylpyrrolidin-2-one",M_209257
+211143,2-(4-benzoylphenyl)propanoic acid,M_211143
+219535,2-methyl-2-phenylpropan-1-ol,M_219535
+221523,3-ethenoxyprop-1-ene,M_221523
+248758,1-methoxy-2-phenoxybenzene,M_248758
+283322,1-methoxy-2-(methoxymethyl)benzene,M_283322
+312683,2-phenyloxane,M_312683
+320761,beta-Cyclodextrin,M_320761
+440918,6-oxohexanoic acid,M_440918
+518802,3-phenylfuran,M_518802
+519304,"1,4-dichlorocyclohexane",M_519304
+519363,2-phenylfuran,M_519363
+522696,1-phenyladamantane,M_522696
+527038,N-benzyl-N-methylbenzamide,M_527038
+527341,2-phenyladamantane,M_527341
+529446,"1-phenyl-2,3-dihydro-1H-indene",M_529446
+534965,thiane 1-oxide,M_534965
+535028,4-methoxycyclohexan-1-one,M_535028
+561155,(2-methylpropan-2-yl)oxymethylbenzene,M_561155
+564931,3-methylbut-2-enoxybenzene,M_564931
+575753,prop-2-ynylbenzene,M_575753
+605866,"5a,5b,8,8,11a,13b-hexamethyl-3-prop-1-en-2-yl-1,2,3,3a,4,5,6,7,7a,9,10,11,11b,12,13,13a-hexadecahydrocyclopenta[a]chrysene",M_605866
+607699,1-benzyl-2-methoxybenzene,M_607699
+640452,difluoromethylbenzene,M_640452
+762654,phenyl(piperazin-1-yl)methanone,M_762654
+778847,propylsulfinylbenzene,M_778847
+966800,phenyl(pyrrolidin-1-yl)methanone,M_966800
+1531644,(4-methylpiperazin-1-yl)-phenylmethanone,M_1531644
+5324110,3-phenyl-1H-pyrrole,M_5324110
+6367052,phenylmethanediamine,M_6367052
+10285776,methanetriamine,M_10285776
+10888024,2-cyclopropylethynylbenzene,M_10888024
+10975514,2-[acetyl(methyl)amino]acetic acid,M_10975514
+11423741,"cyclohexane-1,3,5-tricarbonitrile",M_11423741
+13182523,"N,N-dimethyl-2-oxopropanamide",M_13182523
+13521790,"2,5-dimethyl-1,3-dioxane",M_13521790
+13623938,3-phenyloxane,M_13623938
+14417041,"1,4-dimethylpyrrolidin-2-one",M_14417041
+15556967,"5-phenyl-2,3-dihydro-1H-indene",M_15556967
+21238874,3-acetamidopropanamide,M_21238874
+21304333,2-[2-(2-hydroxypropanoyloxy)propanoyloxy]propanoic acid,M_21304333
+53712034,"5-phenyl-2,3-dihydro-1-benzofuran",M_53712034
+53927953,"2-methylocta-2,6-diene",M_53927953
+58024934,"4,4-dimethylpent-2-ynylbenzene",M_58024934
+85085292,3-cyclopropylprop-2-enylbenzene,M_85085292
+86137262,"N""-phenylmethanetriamine",M_86137262
+91000975,4-methylpent-2-ynylbenzene,M_91000975
+121008116,3-cyclopropylprop-2-ynylbenzene,M_121008116

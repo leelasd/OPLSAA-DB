@@ -1,0 +1,44 @@
+BOSS Z-Matrix with LSDautozmat                              Tot. E =     -7.1417
+   1 DUM   -1   -1    0    0.000000   0    0.000000   0    0.000000 M_6    1
+   2 DUM   -1   -1    1    1.000000   0    0.000000   0    0.000000 M_6    1
+   3 N00  760  760    2    1.000000   1   90.000000   0    0.000000 M_6    1
+   4 O01  761  761    3    1.224707   2   90.000000   1    0.000000 M_6    1
+   5 O02  761  761    3    1.224725   4  124.909415   2   90.000000 M_6    1
+   6 C03  762  762    3    1.490005   4  117.468958   5 -179.927579 M_6    1
+   7 H04  763  763    6    1.089882   3  108.076005   4  -30.105177 M_6    1
+   8 H05  763  763    6    1.089870   3  108.076005   4 -150.166610 M_6    1
+   9 H06  763  763    6    1.089305   3  107.414369   4   89.849244 M_6    1
+                    Geometry Variations follow    (2I4,F12.6)                   
+                    Variable Bonds follow         (I4)                          
+   4
+   5
+   6
+   7
+   8
+   9
+                    Additional Bonds follow       (2I4)                         
+                    Harmonic Constraints follow   (2I4,4F10.4)                  
+                    Variable Bond Angles follow   (I4)                          
+   5
+   6
+   7
+   8
+   9
+                    Additional Bond Angles follow (3I4)                         
+   7   6   8
+   5   3   6
+   7   6   9
+   8   6   9
+                    Variable Dihedrals follow     (3I4,F12.6)                   
+   6 161 161    2.000000
+   7  90  90   15.000000
+   8  90  90   15.000000
+   9  90  90   15.000000
+                    Additional Dihedrals follow   (6I4)                         
+   5   3   6   9  90  90
+   5   3   6   7  90  90
+   5   3   6   8  90  90
+                    Domain Definitions follow     (4I4)                         
+                    Conformational Search (2I4,2F12.6)                          
+                    Local Heating Residues follow (I4 or I4-I4)                 
+                    Final blank line                                            

@@ -1,0 +1,53 @@
+BOSS Z-Matrix with LSDautozmat                              Tot. E =     -0.2587
+   1 DUM   -1   -1    0    0.000000   0    0.000000   0    0.000000 M_7    1
+   2 DUM   -1   -1    1    1.000000   0    0.000000   0    0.000000 M_7    1
+   3 Si0 1063 1063    2    1.000000   1   90.000000   0    0.000000 M_7    1
+   4 C01 1065 1065    3    1.857700   2   90.000000   1    0.000000 M_7    1
+   5 H02  140  140    4    1.089757   3  110.137465   2   90.000000 M_7    1
+   6 H03  140  140    4    1.089687   3  110.137465   5 -119.951720 M_7    1
+   7 H04  140  140    4    1.089687   3  110.137465   5  119.951720 M_7    1
+   8 H05 1064 1064    3    1.479327   4  109.771777   5   59.975860 M_7    1
+   9 H06 1064 1064    3    1.479340   4  109.771777   5  -59.975860 M_7    1
+  10 H07 1064 1064    3    1.479309   4  109.771777   5 -179.927579 M_7    1
+                    Geometry Variations follow    (2I4,F12.6)                   
+                    Variable Bonds follow         (I4)                          
+   4
+   5
+   6
+   7
+   8
+   9
+  10
+                    Additional Bonds follow       (2I4)                         
+                    Harmonic Constraints follow   (2I4,4F10.4)                  
+                    Variable Bond Angles follow   (I4)                          
+   5
+   6
+   7
+   8
+   9
+  10
+                    Additional Bond Angles follow (3I4)                         
+   9   3  10
+   8   3   9
+   5   4   6
+   5   4   7
+   6   4   7
+   8   3  10
+                    Variable Dihedrals follow     (3I4,F12.6)                   
+   6   0   0    2.000000
+   7   0   0    2.000000
+   8 360 360   15.000000
+   9 360 360   15.000000
+  10 360 360   15.000000
+                    Additional Dihedrals follow   (6I4)                         
+   7   4   3  10 360 360
+   6   4   3  10 360 360
+   7   4   3   9 360 360
+   7   4   3   8 360 360
+   6   4   3   9 360 360
+   6   4   3   8 360 360
+                    Domain Definitions follow     (4I4)                         
+                    Conformational Search (2I4,2F12.6)                          
+                    Local Heating Residues follow (I4 or I4-I4)                 
+                    Final blank line                                            
